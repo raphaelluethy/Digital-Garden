@@ -1,0 +1,21 @@
+[data-md-color-scheme="my-dark"] {
+	--md-default-fg-color: rgb(218, 218, 218); /* text */
+	--md-default-fg-color--light: rgb(218, 218, 218); /* page title*/
+	--md-default-bg-color: #212127; /* background */
+	--md-primary-fg-color: #FF002E; /* header background and nav selected 3^*/
+	--md-primary-bg-color: rgb(255, 255, 255); /* header text*/
+	--md-accent-fg-color: #FF002E; /* nav hover*/
+	--md-code-bg-color: #292931; /* code background*/
+	--md-code-fg-color: rgb(218, 218, 218); /* code default text*/
+}
+
+[data-md-color-scheme="my-light"] {
+	--md-default-fg-color: #212127; /* text */
+	--md-default-fg-color--light: #292931; /* page title*/
+	--md-default-bg-color: #fff; /* background */
+	--md-primary-fg-color: #FF002E; /* header background and nav selected 3^*/
+	--md-primary-bg-color: rgb(255, 255, 255); /* header text*/
+	--md-accent-fg-color: #FF002E; /* nav hover*/
+	--md-code-bg-color: rgb(218, 218, 218); /* code background*/
+	--md-code-fg-color: #292931; /* code default text*/
+}
