@@ -1,6 +1,6 @@
 site_name: George's Digital Garden
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: LuciferUchiha/Digital-Garden
+repo_url: https://github.com/LuciferUchiha/Digital-Garden
 edit_uri: ""
 theme:
   name: material
