@@ -23,8 +23,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/LuciferUchiha
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:rowla101@gmail.com
+
+
 
 markdown_extensions:
   - admonition
