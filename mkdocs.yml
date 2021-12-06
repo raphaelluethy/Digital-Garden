@@ -7,24 +7,22 @@ theme:
   features:
     - navigation.top
   palette:
-    - media: "(prefers-color-scheme: dark)" 
-      scheme: my-dark
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+    scheme: slate
+    primary: grey
+    accent: grey
+  custom_dir: 'custom/'
 
-    - media: "(prefers-color-scheme: light)"
-      scheme: my-light
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
 extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/LuciferUchiha
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:rowla101@gmail.com
+
+plugins:
+  - search
+  - mkdocs-jupyter:
+      include_source: True
+  - mermaid2
 
 markdown_extensions:
   - admonition
