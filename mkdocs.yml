@@ -12,11 +12,18 @@ theme:
     accent: grey
   custom_dir: 'custom/'
 
+  
+copyright: "Did my notes help you or did you enjoy one of my recipes? Then feel free to buy me a coffee :) ⇨ ⇨ ⇨"
+
 extra:
   generator: false
   social:
+    - icon: fontawesome/solid/coffee
+      link: https://buymeacoffee.com/georgerowlands                
+      name: Buy me a coffee
     - icon: fontawesome/brands/github
       link: https://github.com/LuciferUchiha
+      name: Github link
 
 plugins:
   - search
